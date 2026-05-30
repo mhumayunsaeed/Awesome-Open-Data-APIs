@@ -21,6 +21,9 @@ Perfect for developers, students, and hobbyists looking to build projects.
 - [NASA Open APIs](https://api.nasa.gov/) – Space imagery, Mars Rover, and more (✅ Free, 🔑 API Key)  
 - [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free, 🚫 No Auth)
 
+### 🧬 Health
+- [Longevity World Cup](https://longevityworldcup.com/api/data/athletes) – Public biological-age ranking data and athlete profiles (✅ Free, 🚫 No Auth)
+
 ---
 
 ## 📖 Examples
