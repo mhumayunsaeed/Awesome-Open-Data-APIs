@@ -12,6 +12,7 @@ Perfect for developers, students, and hobbyists looking to build projects.
 ### 📈 Finance
 - [Polygon.io](https://polygon.io) – Free stock & crypto data API (✅ Free tier, 🔑 Requires API Key)  
 - [Frankfurter](https://www.frankfurter.app/) – Currency exchange rates, no auth required (✅ Free, 🚫 No Auth)
+- [Invokely](https://invokely.ai/docs) - Official economic statistics for AI agents over MCP, with source citations on every figure. Free account: 500 MCP calls/month; REST data queries require Builder, Pro or prepaid credits. (✅ Free MCP tier, 🔑 API Key/OAuth; no-account trial: 25 calls/day/IP)
 
 ### 🌦️ Weather
 - [Open-Meteo](https://open-meteo.com/) – Global weather forecasts (✅ Free, 🚫 No Auth)  
