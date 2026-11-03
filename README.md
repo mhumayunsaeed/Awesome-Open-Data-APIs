@@ -11,15 +11,19 @@ Perfect for developers, students, and hobbyists looking to build projects.
 
 ### 📈 Finance
 - [Polygon.io](https://polygon.io) – Free stock & crypto data API (✅ Free tier, 🔑 Requires API Key)  
-- [Frankfurter](https://www.frankfurter.app/) – Currency exchange rates, no auth required (✅ Free, 🚫 No Auth)
+- [Frankfurter](https://www.frankfurter.app/) – Currency exchange rates, no auth required (✅ Free)
 
 ### 🌦️ Weather
-- [Open-Meteo](https://open-meteo.com/) – Global weather forecasts (✅ Free, 🚫 No Auth)  
+- [Open-Meteo](https://open-meteo.com/) – Global weather forecasts (✅ Free)  
 - [WeatherAPI](https://www.weatherapi.com/) – Weather and astronomy data (✅ Free tier, 🔑 API Key)
 
 ### 🛰️ Space
 - [NASA Open APIs](https://api.nasa.gov/) – Space imagery, Mars Rover, and more (✅ Free, 🔑 API Key)  
-- [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free, 🚫 No Auth)
+- [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free)
+
+
+### 📊 Statistics
+- [StatOrigin](https://statorigin.org) – Verified, sourced industry statistics for 32 industries, with a public REST API (✅ Free)
 
 ---
 
@@ -106,7 +110,7 @@ We want this project to be **welcoming, beginner-friendly, and useful** for ever
 👉 Example:
 
 ```
-- [Dog CEO](https://dog.ceo/dog-api/) – Random dog images (✅ Free, 🚫 No Auth)
+- [Dog CEO](https://dog.ceo/dog-api/) – Random dog images (✅ Free)
 ```
 
 * (Optional) Add a JSON file under `/apis/` if you want to provide structured data:
