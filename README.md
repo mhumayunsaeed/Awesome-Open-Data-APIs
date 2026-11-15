@@ -17,6 +17,9 @@ Perfect for developers, students, and hobbyists looking to build projects.
 - [Open-Meteo](https://open-meteo.com/) – Global weather forecasts (✅ Free, 🚫 No Auth)  
 - [WeatherAPI](https://www.weatherapi.com/) – Weather and astronomy data (✅ Free tier, 🔑 API Key)
 
+### 🎵 Music & Venues
+- [No Stairs Please](https://nostairsplease.com/mcp) – US live music venue booking directory & remote MCP server covering 38,000+ small stages across all 50 states (✅ Free tier, 🔐 OAuth 2.1)
+
 ### 🛰️ Space
 - [NASA Open APIs](https://api.nasa.gov/) – Space imagery, Mars Rover, and more (✅ Free, 🔑 API Key)  
 - [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free, 🚫 No Auth)
