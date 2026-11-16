@@ -21,6 +21,10 @@ Perfect for developers, students, and hobbyists looking to build projects.
 - [NASA Open APIs](https://api.nasa.gov/) – Space imagery, Mars Rover, and more (✅ Free, 🔑 API Key)  
 - [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free, 🚫 No Auth)
 
+### 💼 Business
+
+- [Datacircle](https://datacircle.dev) – Find the best GTM APIs: every API on our sheet, who is best for each, every plan (✅ Free, 🚫 No Auth). API: https://api.datacircle.dev/v1
+
 ---
 
 ## 📖 Examples
