@@ -21,6 +21,9 @@ Perfect for developers, students, and hobbyists looking to build projects.
 - [NASA Open APIs](https://api.nasa.gov/) – Space imagery, Mars Rover, and more (✅ Free, 🔑 API Key)  
 - [Open Notify](http://open-notify.org/) – ISS location and astronaut data (✅ Free, 🚫 No Auth)
 
+### 💬 Social Media
+- [Social Fetch](https://www.socialfetch.dev) – A pay as you go API for public posts, profiles, comments and transcripts from TikTok, Instagram, YouTube, X, Reddit and LinkedIn. (✅ Free tier, 🔑 Requires API Key)
+
 ---
 
 ## 📖 Examples
